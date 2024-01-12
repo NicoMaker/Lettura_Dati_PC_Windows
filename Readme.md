@@ -1,4 +1,4 @@
-# Inviare i dati RAM, ROM totlae Libera e usata e CPU dI windows
+# Inviare i dati RAM, ROM totale Libera e usata e CPU dI windows
 
 scaricare i seguenti pacchetti nuget
 
