@@ -114,4 +114,4 @@ dentro la classe Data creo i vari metodi
 
 Infine programma funzionate alla fine
 
-![lettura dati PC](lettura_dati.png)
+![lettura dati PC](Lettura_dati.png)
