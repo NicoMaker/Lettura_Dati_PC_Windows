@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ng9S7vdOGcDj7q3xdhSFxTnK4U3vJxF1pGn15D5k8cahFvXKmnC+MzobE9pLHxgLlcN1vQRVMFKXSongQX/iQ==",
+  "success": true,
+  "projectFilePath": "D:\\Corso ITS IIOT\\2 anno\\Lettura_Dati_PC_Windows\\Lettura_dati_PC_Widows\\Lettura_dati_PC_Widows\\Lettura_dati_PC_Widows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
