@@ -11,6 +11,8 @@ prima parte di configurazione degli using
 ```C#
 using System;
 using System.Management;
+using Windows;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 ```
 
 instanzio oggetto della classe Data
