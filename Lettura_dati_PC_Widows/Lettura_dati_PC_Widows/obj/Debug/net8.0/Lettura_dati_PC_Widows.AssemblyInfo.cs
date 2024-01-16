@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lettura_dati_PC_Widows")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ca4dcb3ce1ae6d2338ee652dd61a61a33bfbdd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1d2e87aa5655321cd3e18fe63b187590f3737be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lettura_dati_PC_Widows")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lettura_dati_PC_Widows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
