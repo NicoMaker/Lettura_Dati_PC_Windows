@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EtDlQqVoeAd0WnH1orxPIrtxXogMoX9uLaHN+gQZ9xMrbToFNtXXQ0I77LyxdNgkIT7HdKdRCJdR3PPkt9TutQ==",
+  "dgSpecHash": "0UgzhgLw2ocVH7LJIIci36HpUwWeD/Z4rgJVZzluTvEsfVemFN+/mM6az42XbGm3TG5TcnfQ166S9sB/qF7Dcg==",
   "success": true,
-  "projectFilePath": "D:\\Corso ITS IIOT\\2 anno\\Stage\\Lettura Dati\\Lettura_Dati_PC_Windows\\Lettura_dati_PC_Widows\\Lettura_dati_PC_Widows\\Lettura_dati_PC_Widows.csproj",
+  "projectFilePath": "D:\\Corso ITS IIOT\\2 anno\\Stage\\Attività\\2_Attività\\Lettura Dati\\Lettura_Dati_PC_Windows\\Lettura_dati_PC_Widows\\Lettura_dati_PC_Widows\\Lettura_dati_PC_Widows.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"

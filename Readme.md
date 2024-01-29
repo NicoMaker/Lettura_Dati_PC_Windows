@@ -4,7 +4,7 @@ scaricare i seguenti pacchetti nuget
 
 - Management
 
-![scaricamneto Nuget](Scaricamento_nuget.png)
+![scaricamneto Nuget](Immagini/Scaricamento_nuget.png)
 
 prima parte di configurazione degli using
 
@@ -108,4 +108,4 @@ public string GetCpuInfo()
 
 ### Infine programma funzionate alla fine
 
-![lettura dati PC](Lettura_dati.png)
+![lettura dati PC](Immagini/Lettura_dati.png)
