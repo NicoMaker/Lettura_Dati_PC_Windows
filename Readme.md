@@ -106,6 +106,6 @@ public string GetCpuInfo()
 }
 ```
 
-### Infine programma funzionate alla fine
+### Infine programma funzionante alla fine
 
 ![lettura dati PC](Immagini/Lettura_dati.png)
