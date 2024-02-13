@@ -4,7 +4,7 @@ scaricare i seguenti pacchetti nuget
 
 - Management
 
-![scaricamneto Nuget](Immagini/Scaricamento_nuget.png)
+    ![scaricamneto Nuget](Immagini/Scaricamento_nuget.png)
 
 prima parte di configurazione degli using
 
